@@ -104,7 +104,7 @@ http://localhost:5000
 
 ## 👨‍💻 Author
 
-Madhusudan Yadav
+Adarsh Kumar
 
 ---
 
